@@ -1,3 +1,4 @@
 function init() {
-	alert("start");
+	var first = document.getElementById("first");
+	alert(first.innerHTML);
 }
